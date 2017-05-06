@@ -10,7 +10,7 @@
 章节                   | 进度
 ---------------------- | ----
 [前言](preface.md)                     | <span style="color: #d6332b"> 0% </font>
-[第一章：Django和模式](ch01/00.index.md)   | <font color="#d6332b"> 0% </font>
+[第一章：Django和模式](ch01/00.index.md)   | <font color="#d6332b"> 1% </font>
 [第二章：应用设计](ch02/00.index.md)        | <font color="#d6332b"> 0% </font>
 [第三章：模型](ch03/00.index.md)           | <font color="#d6332b"> 0% </font>
 [第四章：视图和URL](ch04/00.index.md)       | <font color="#d6332b"> 0% </font>
