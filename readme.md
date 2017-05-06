@@ -10,17 +10,17 @@
 章节                   | 进度
 ---------------------- | ----
 [前言](preface.md)                     | <span style="color: #d6332b"> 0% </font>
-[第一章：Django和模式](ch01/index.md)   | <font color="#d6332b"> 0% </font>
-[第二章：应用设计](ch02/index.md)        | <font color="#d6332b"> 0% </font>
-[第三章：模型](ch03/index.md)           | <font color="#d6332b"> 0% </font>
-[第四章：视图和URL](ch04/index.md)       | <font color="#d6332b"> 0% </font>
-[第五章：模板](ch05/index.md)           | <font color="#d6332b"> 0% </font>
-[第六章：管理界面](ch06/index.md)       | <font color="#d6332b"> 0% </font>
-[第七章：表单](ch07/index.md)           | <font color="#d6332b"> 0% </font>
-[第八章：旧代码](ch08/index.md)         | <font color="#d6332b"> 0% </font>
-[第九章：测试和调试](ch09/index.md)      | <font color="#d6332b"> 0% </font>
-[第十章：安全](ch10/index.md)           | <font color="#d6332b"> 0% </font>
-[第十一章：准备生产](ch11/index.md)      | <font color="#d6332b"> 0% </font>
+[第一章：Django和模式](ch01/00.index.md)   | <font color="#d6332b"> 0% </font>
+[第二章：应用设计](ch02/00.index.md)        | <font color="#d6332b"> 0% </font>
+[第三章：模型](ch03/00.index.md)           | <font color="#d6332b"> 0% </font>
+[第四章：视图和URL](ch04/00.index.md)       | <font color="#d6332b"> 0% </font>
+[第五章：模板](ch05/00.index.md)           | <font color="#d6332b"> 0% </font>
+[第六章：管理界面](ch06/00.index.md)       | <font color="#d6332b"> 0% </font>
+[第七章：表单](ch07/00.index.md)           | <font color="#d6332b"> 0% </font>
+[第八章：旧代码](ch08/00.index.md)         | <font color="#d6332b"> 0% </font>
+[第九章：测试和调试](ch09/00.index.md)      | <font color="#d6332b"> 0% </font>
+[第十章：安全](ch10/00.index.md)           | <font color="#d6332b"> 0% </font>
+[第十一章：准备生产](ch11/00.index.md)      | <font color="#d6332b"> 0% </font>
 [附录：Python2 vs Python3](appendix.md) | <font color="#d6332b"> 0% </font>
 
 进度表示：
